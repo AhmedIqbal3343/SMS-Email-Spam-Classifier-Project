@@ -22,7 +22,8 @@ def transform_text(text):
 
     return ' '.join(y)
 
-
+nltk.download('punkt')
+nltk.download('stopwords')
 # Load vectorizer and model
 tfidf = pickle.load(open('tfidf_vectorizer.pkl', 'rb'))
 model = pickle.load(open('bnb_model.pkl', 'rb'))
