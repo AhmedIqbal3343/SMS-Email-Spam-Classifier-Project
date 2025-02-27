@@ -1,8 +1,6 @@
-pickle
 sklearn
 nltk
 seaborn
 pandas
 numpy
 streamlit
-string
