@@ -8,7 +8,7 @@ Powered by the **Bernoulli Naïve Bayes (BNB) algorithm**, this classifier is de
 ## 🌍 Try It Live – Instant Spam Classification  
 Experience the **SMS/Email Spam Classifier** in action! No installation required—simply visit the link below and start classifying messages instantly.  
 
-🚀 **Live Demo:** [SMS/Email Spam Classifier](https://sms-email-spam-classifier-proj.streamlit.app/)  
+🚀 **Live Demo:** [SMS/Email Spam Classifier](https://sms-email-spam-classifier-proj.streamlit.app/) 
 
 ## 🌟 Project Overview  
 The **SMS/Email Spam Classifier** is a powerful and easy-to-use tool that differentiates spam from legitimate messages. Using **TF-IDF vectorization and machine learning**, it processes and classifies messages in real time. The model is powered by the **Bernoulli Naïve Bayes (BNB) algorithm**, ensuring high performance and robustness.  
